@@ -1,0 +1,131 @@
+{
+  "type": "folder",
+  "name": "PHYSICS-HC-VERMA-II",
+  "children": [
+    {
+      "type": "file",
+      "name": "HCVERMAPH23-HEAT_AND_TEMPERATURE.pdf",
+      "path": "HCVERMAPH23-HEAT_AND_TEMPERATURE.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH24-KINETIC_THEORY_OF_GASES.pdf",
+      "path": "HCVERMAPH24-KINETIC_THEORY_OF_GASES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH25-CALORIMETRY.pdf",
+      "path": "HCVERMAPH25-CALORIMETRY.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH26-LAWS_OF_THERMODYNAMICS.pdf",
+      "path": "HCVERMAPH26-LAWS_OF_THERMODYNAMICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH27-SPECIFIC_HEAT_CAPACITIES_OF_GASES.pdf",
+      "path": "HCVERMAPH27-SPECIFIC_HEAT_CAPACITIES_OF_GASES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH28-HEAT_TRANSFER.pdf",
+      "path": "HCVERMAPH28-HEAT_TRANSFER.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH29-ELECTRIC_FIELD_AND_POTENTIAL.pdf",
+      "path": "HCVERMAPH29-ELECTRIC_FIELD_AND_POTENTIAL.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH30-GAUSS_S_LAW.pdf",
+      "path": "HCVERMAPH30-GAUSS_S_LAW.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH31-CAPACITORS.pdf",
+      "path": "HCVERMAPH31-CAPACITORS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH32-ELECTRIC_CURRENT_IN_CONDUCTORS.pdf",
+      "path": "HCVERMAPH32-ELECTRIC_CURRENT_IN_CONDUCTORS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH33-THERMAL_AND_CHEMICAL_EFFECTS_OF_ELECTRIC_CURRENT.pdf",
+      "path": "HCVERMAPH33-THERMAL_AND_CHEMICAL_EFFECTS_OF_ELECTRIC_CURRENT.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH34-MAGNETIC_FIELD.pdf",
+      "path": "HCVERMAPH34-MAGNETIC_FIELD.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH35-MAGNETIC_FIELD_DUE_TO_A_CURRENT.pdf",
+      "path": "HCVERMAPH35-MAGNETIC_FIELD_DUE_TO_A_CURRENT.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH36-PERMANENT_MAGNETS.pdf",
+      "path": "HCVERMAPH36-PERMANENT_MAGNETS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH37-MAGNETIC_PROPERTIES_OF_MATTER.pdf",
+      "path": "HCVERMAPH37-MAGNETIC_PROPERTIES_OF_MATTER.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH38-ELECTROMAGNETIC_INDUCTION.pdf",
+      "path": "HCVERMAPH38-ELECTROMAGNETIC_INDUCTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH39-ALTERNATING_CURRENT.pdf",
+      "path": "HCVERMAPH39-ALTERNATING_CURRENT.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH40-ELECTROMAGNETIC_WAVES.pdf",
+      "path": "HCVERMAPH40-ELECTROMAGNETIC_WAVES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH41-ELECTRIC_CURRENT_THROUGH_GASES.pdf",
+      "path": "HCVERMAPH41-ELECTRIC_CURRENT_THROUGH_GASES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH42-PHOTOELECTRIC_EFFECT_AND_WAVE_PARTICLE_DUALITY.pdf",
+      "path": "HCVERMAPH42-PHOTOELECTRIC_EFFECT_AND_WAVE_PARTICLE_DUALITY.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH43-BOHR_S_MODEL_AND_PHYSICS_OF_THE_ATOM.pdf",
+      "path": "HCVERMAPH43-BOHR_S_MODEL_AND_PHYSICS_OF_THE_ATOM.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH44-X_RAYS.pdf",
+      "path": "HCVERMAPH44-X_RAYS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH45-SEMICONDUCTORS_AND_SEMICONDUCTOR_DEVICES.pdf",
+      "path": "HCVERMAPH45-SEMICONDUCTORS_AND_SEMICONDUCTOR_DEVICES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH46-THE_NUCLEUS.pdf",
+      "path": "HCVERMAPH46-THE_NUCLEUS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH47-THE_SPECIAL_THEORY_OF_RELATIVITY.pdf",
+      "path": "HCVERMAPH47-THE_SPECIAL_THEORY_OF_RELATIVITY.pdf"
+    }
+  ]
+}
